@@ -1,2 +1,0 @@
-# SimpleHooksApp
-Created with CodeSandbox
